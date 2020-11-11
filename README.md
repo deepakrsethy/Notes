@@ -1,4 +1,4 @@
 # Notes
 Valuable/Important Notes
 
-Click in wiki
+Click on wiki to see notes
